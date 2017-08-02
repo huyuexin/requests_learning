@@ -13,7 +13,7 @@ browser = webdriver.Firefox()
 
 browser.get("http://oa.tiexinba.net/UserLogin.asp")
 name=input('name')
-key=imput('key')
+key=input('key')
 browser.find_element_by_id("UserName").send_keys(name)
 browser.find_element_by_id("Password").send_keys(key)
 time.sleep(3)  # 休眠3秒
