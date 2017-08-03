@@ -340,3 +340,9 @@ Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
 1501662820103	Marionette	INFO	Ceased listening
+1501663064987	geckodriver	INFO	geckodriver 0.18.0
+1501663064997	geckodriver	INFO	Listening on 127.0.0.1:58686
+1501663067109	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1501663072284	Marionette	INFO	Listening on port 58693
+1501663072462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501663173749	Marionette	INFO	Ceased listening
